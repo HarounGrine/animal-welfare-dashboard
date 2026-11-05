@@ -1,0 +1,6 @@
+dataset,total_records,valid_records,rejected_records,duplicate_records,final_records,validation_success_rate
+video_flags,43,43,0,0,43,100.0
+acoustic_records,8064,8064,0,0,8064,100.0
+process_records,8064,8064,0,0,8064,100.0
+welfare_events,17,17,0,0,17,100.0
+ear_tag_records,500,500,0,0,500,100.0
